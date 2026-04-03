@@ -4,7 +4,17 @@
 Department of Computer Science and Engineering  
 National Institute of Technology Calicut
 
-Team Members: Name - Roll Number - Email; Name - Roll Number - Email; Name - Roll Number - Email; Name - Roll Number - Email; Name - Roll Number - Email.
+Team Members:
+1. Atluri Venkata Sai Vignesh Chowdary
+Roll Number: B230857CS
+2. Adimulam Yaswanth Veera Nagesh
+Roll Number: B230755CS
+3. Munukuntla Rithvik Reddy
+Roll Number: B231114CS
+4. Teja Chinthala
+Roll Number: B230267CS
+5. Kukkala Sai Dinesh Reddy
+Roll Number: B231035CS
 
 ---
 
@@ -108,7 +118,7 @@ Confusion matrices are included for the three most decision-relevant operating p
 
 For completeness of neural model behavior, the training curve is included to show stable convergence with a persistent train-validation gap that matches the moderate generalization pattern observed in downstream metrics.
 
-![Neural Network Training Curve](./outputs/plots/nn_training_curve.png)
+
 
 ---
 
